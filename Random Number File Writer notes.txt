@@ -1,0 +1,14 @@
+lines 11 and 12 - It is using the filename variable to get an input string from 
+the user of the file they want to create and in this case it is TextFile.txt.
+
+line 15 - It is defining numberOfRandoms as an interger to get an input string 
+from the user specifying how many random intergers are to be written to the file.
+
+line 22 - It is a loop that is repeating a range of numbers 
+from 1 to numberOfRandoms.
+
+line 24 - It is using the randomNumber variable and calling the randint function 
+to generate a random number interger in the range of 1 through 100.
+
+line 25 - It is writing to the file each string and pulling down the randomNumber 
+variable and continuing to create new line until it reaches 15 
